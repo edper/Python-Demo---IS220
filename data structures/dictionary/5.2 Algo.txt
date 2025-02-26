@@ -1,0 +1,13 @@
+Receive file name input
+Open the file
+Read the lines and convert into a list
+
+Use for loop to display the line number and the text on each line
+
+While True
+    prompt the user for a line number
+    if line number is 0
+       break
+    display the line form the text file
+
+close file

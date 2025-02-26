@@ -1,0 +1,5 @@
+Hello World
+Python is cool!
+I'm moving.
+Let's Go!
+Number of Lines: 4
